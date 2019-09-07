@@ -39,25 +39,25 @@ function caseInSwitch(val) {
  var caseString = "";
  switch (val) {
    case 0:
-     caseString = "I become what I see in myself. All that thought suggests to me, I can do; all that thought reveals in me, I can become. This should be man's unshakeable faith in himself, because God dwells in him. <br> -Sri Aurobindo";
+     caseString = "I become what I see in myself. All that thought suggests to me, I can do; all that thought reveals in me, I can become. This should be man's unshakeable faith in himself, because God dwells in him. <br><br> -Sri Aurobindo";
      break;
    case 1:
-     caseString = "The Age of advencures is over. Even if we go to the seventh galaxy, we will go there helmeted and mechanized, and we will find ourselves exactly as we are: children in the face of death, living beings who are no too sure ho theylive or why, nor where they are going. <br> -Sri Aurobindo";
+     caseString = "The Age of adventure is over. Even if we go to the seventh galaxy, we will go there helmeted and mechanized, and we will find ourselves exactly as we are: children in the face of death, living beings who are no too sure ho theylive or why, nor where they are going. <br><br> -Sri Aurobindo";
      break;
    case 2:
-     caseString = "The heavens beyond are great and wonderful, but greater and more wonderful are the heavens within you. It is these Edens that await the divine worker. <br> -Sri Aurobindo";
+     caseString = "The heavens beyond are great and wonderful, but greater and more wonderful are the heavens within you. It is these Edens that await the divine worker. <br><br> -Sri Aurobindo";
      break;
    case 3:
-     caseString = "Our actual enemy is not any force exterior to ourselves, but our own crying weaknesses, our cowardice, our selfishness, our hypocrisy, our purblind sentimentalism. <br> -Sri Aurobindo";
+     caseString = "Our actual enemy is not any force exterior to ourselves, but our own crying weaknesses, our cowardice, our selfishness, our hypocrisy, our purblind sentimentalism. <br><br> -Sri Aurobindo";
      break;
    case 4:
-     caseString = "For what the Spirit sees becomes a truth. <br> And what the soul imagines is made a world. <br> -Sri Aurobindo";
+     caseString = "For what the Spirit sees becomes a truth. <br> And what the soul imagines is made a world. <br><br> -Sri Aurobindo";
      break;
    case 5:
-     caseString = "For Truth and knowldge are an idle gleam, <br> If Knowldge brings not power to change the world. <br> -Sri Aurobindo";
+     caseString = "For Truth and knowldge are an idle gleam, <br> If Knowldge brings not power to change the world. <br><br> -Sri Aurobindo";
      break;
    default:
-     caseString = "I never admitted a truth in the mind without simultaneously keeping it open to the contrary of it...And the first result was the prestige of the intellect was gone. <br> -Sri Aurobindo";
+     caseString = "I never admitted a truth in the mind without simultaneously keeping it open to the contrary of it...And the first result was the prestige of the intellect was gone. <br> <br>-Sri Aurobindo";
      break;
  }
  return caseString;
