@@ -22,10 +22,7 @@ h1,h2,h3{
   height:80%;
   max-height: 700px;
 
-  -webkit-box-shadow: 0px 0px 59px 5px rgba(0,0,0,0.58);
--moz-box-shadow: 0px 0px 59px 5px rgba(0,0,0,0.58);
-box-shadow: 0px 0px 59px 5px rgba(0,0,0,0.58);
-  overflow:scroll;
+ 
 
   display: flex;
   flex-direction: column;
@@ -53,19 +50,24 @@ box-shadow: 0px 0px 59px 5px rgba(0,0,0,0.58);
   width: 20%;
   font-size: 3em;
   padding-top: 2%;
-  padding-right: 4%;
+  padding-right: 3%;
    text-align: right;
    
 
 }
 
 .cardText{
-  font-family: 'Helvetica';
+  font-family: 'Cedarville Cursive';
   padding-top: 5%;
   padding-left: 14%;
   padding-right: 14%;
 
-  font-size: 1.5vw;
+
+}
+
+.rquoteText{
+  font-size: 2.00em;
+
 }
 
 .cardButton{

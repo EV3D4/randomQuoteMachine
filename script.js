@@ -23,14 +23,14 @@ function cardTweet(){
   var cleanString = string.replace(re, '');
 
 
-   if (cleanString.length>140){
+   if (cleanString.length>280){
      cleanString=cleanString.slice(0,120);
-   cleanString=cleanString.concat("... -- Sri Aurobindo");
+   cleanString=cleanString.concat("... -- Satprem");
    }
 
 
 
-  var twtLink = 'http://twitter.com/home?status=' +encodeURIComponent(cleanString);
+  var twtLink = 'https://twitter.com/intent/tweet?text=' +encodeURIComponent(cleanString);
    window.open(twtLink,'_blank');
 
    };
