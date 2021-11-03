@@ -51,13 +51,13 @@ function caseInSwitch(val) {
      caseString = "Our actual enemy is not any force exterior to ourselves, but our own crying weaknesses, our cowardice, our selfishness, our hypocrisy, our purblind sentimentalism. <br><br> Sri Aurobindo, <br> New Lamps for Old";
      break;
    case 4:
-     caseString = "For what the Spirit sees becomes a truth. <br> And what the soul imagines is made a world. <br><br> Sri Aurobindo, <br>Savitri";
+     caseString = "For what the Spirit sees becomes a truth. <br> And what the soul imagines is made a world. <br><br> Sri Aurobindo, <br> Savitri";
      break;
    case 5:
-     caseString = "For Truth and knowldge are an idle gleam, <br> If Knowldge brings not power to change the world. <br><br> Sri Aurobindo, <br>Savitri";
+     caseString = "For Truth and knowldge are an idle gleam, <br> If Knowldge brings not power to change the world. <br><br> Sri Aurobindo, <br> Savitri";
      break;
    default:
-     caseString = "I never admitted a truth in the mind without simultaneously keeping it open to the contrary of it <br> And the first result was the prestige of the intellect was gone. <br> <br> Sri Aurobindo, <br>Evening Talks ";
+     caseString = "I never admitted a truth in the mind without simultaneously keeping it open to the contrary of it <br> And the first result was the prestige of the intellect was gone. <br> <br> Sri Aurobindo, <br> Evening Talks ";
      break;
  }
  return caseString;
